@@ -1,4 +1,4 @@
-# SUPERVISED-vs-UNSUPERVISED-LEARNING
+
 Descripción general
 
 Este conjunto de datos fue generado de forma sintética con el propósito de simular información de estudiantes universitarios y predecir si un estudiante abandonará o no su carrera durante el primer año académico.
